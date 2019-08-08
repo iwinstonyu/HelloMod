@@ -1,2 +1,2 @@
 # HelloMod
-Hello module
+Hello go module
