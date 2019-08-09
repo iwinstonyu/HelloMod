@@ -1,5 +1,5 @@
 package HelloMod
 
 func Hello(){
-	print("Hello")
+	print("Hello mod new version")
 }
