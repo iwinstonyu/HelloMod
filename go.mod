@@ -1,3 +1,3 @@
-module github.com/windpenguin/HelloMod/v2
+module github.com/windpenguin/HelloMod/v3
 
-go 1.12
+go 1.14
